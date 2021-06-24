@@ -1,0 +1,416 @@
+Date,Titile,Content ,Category,Sentiment Score
+2017/7/20,Dubious Bitcoin Scheme Uses Ethereum ICO to Keep the Game Going,"There has been an interesting turn of events in the case of the alleged India-based Ponzi scheme known as GainBitcoin. Recently, after a Change.org petition from an outraged GainBitcoin investor surfaced, the group behind the scheme launched an Ethereum ICO (initial coin offering) in an effort to keep the probable scam going.
+
+For those who haven’t heard of GainBitcoin, it purports to be a Bitcoin cloud-mining operation; the operation, in turn, is connected to Amit Bhardwaj, founder of Bitcoin mining pool GBMiners. Some Bitcoin companies based in India, such as Zebpay, have warned their customers about schemes like GainBitcoin due to the unrealistic profits for potential investors that are included in their marketing materials.
+
+With the launch of a new token on Ethereum, combined with a marketing campaign that includes support from major Indian newspapers and Bollywood celebrities, it appears this dubious scheme has new life.
+
+According to Bitsonline, GAW Miners Founder Josh Garza used a similar method when inventing Paycoin to continue making payments related to his Ponzi scheme.
+
+The Launch of a New Token
+The new token launched by Bhardwaj is known as MCAP, and it was officially launched by the Bitcoin Growth Fund, which is another one of Bhardwaj’s creations. According to the website, the MCAP ICO raised over $19 million at a sale price of $5 per token. The website also claims nearly five million MCAP tokens were sold, some at a discounted rate.
+
+A video posted on the Bitcoin Growth Fund website has similarities to videos associated with the notorious OneCoin scam. For example, the video projects that, according to “various estimates,” the MCAP price could go as high as $100 by May 2018. The video goes as far as to recommend purchasing the token as the price declines as a way to generate even higher returns.
+
+The MCAP token is said to derive its value from investments in cryptocurrency mining, but the connection between the token and cryptocurrency mining profits is never explained.
+
+Although CoinMarketCap indicates MCAP is ranked 35th out of all digital assets by market cap, the cryptocurrency price site indicates a circulating supply of over 30 million tokens. According to Ethplorer, 100 million MCAP tokens exist, but it’s unclear how many of them are in circulation.
+
+The token is currently trading at a little under $4 on cryptocurrency exchange C-CEX. Veteran cryptocurrency trader Jeremy Ross told Bitcoin Magazine that C-CEX is “one of those exchanges you go to to buy the trash.”
+
+At this time, C-CEX and EtherDelta are the only two exchanges where MCAP is listed other than an exchange on the Bitcoin Growth Fund website. It’s unclear how reliable the trading data on the Bitcoin Growth Fund website is since it is also connected to Bhardwaj. OneCoin also hosted an exchange for their own coin at one time, but the exchange, Xcoinx, is currently offline.
+
+A Cryptocurrency Book for Beginners
+Like many scams in the Bitcoin space, MCAP is targeted at beginners who do not know the first thing about these sorts of digital assets. Indeed, Amit Bhardwaj has a new book out, titled “Cryptocurrency for Beginners.”
+
+The book is priced at 1,499 Indian rupees (around $23 USD), but those who purchase the book also receive 1,200 Indian rupees’ worth of MCAP for free, as a way to get started with cryptocurrencies.
+
+photo6274069100963669948.jpg
+
+In addition to peddling his new book to Bitcoin-related news outlets, such as The Cointelegraph and NewsBTC, Bhardwaj was also able to get full, front-page ads for the book in two of India’s largest newspapers: Times of India and Hindustan Times.
+
+Multiple Bollywood celebrities with millions of followers on Twitter have also sent out supportive tweets about the book over the past couple of weeks.
+
+So, with the creation of this new token, GainBitcoin now has the ability to make more payouts to their investors because they can only receive their payouts via MCAP. With the Ethereum ICO, GainBitcoin has effectively created more money out of thin air to keep the scheme going.",Scams,-0.3612
+2017/7/20,White Hats Step In to Save Funds from Vulnerable Ether Wallets,"At 11:30 a.m. (CDT) on July 19, 2017, a hacker managed to steal 153,000 ETH (approximately $32 million at the time) from three Ethereum wallets by exploiting a vulnerability within the wallets' multi-signature verification. The affected wallets include the ones using Parity client version 1.5 or later.
+
+According to a tweet by Project Lead Manuel Aráoz, the three multisig wallets first targeted by the hack were using Parity client version 1.5 or later, and included Edgeless Casino, Swarm City and Æternity Blockchain. However, Project Blocktix also reported a loss totaling 3,916 ETH. According to ETHNews, Blocktix.io was hit by a second attacker who exploited the same vulnerability.
+
+A Swarm City blog post revealed that a group of white hat hackers managed to secure the remaining funds from the affected ETH wallets using the same exploit. The swift response of the white hat hackers allowed them to secure the funds of other vulnerable projects. Unfortunately, funds in the wallets of Edgeless Casino, Swarm City and Æternity Blockchain are completely lost, though the “white hat response team” managed to secure 6,272 of 10,188 ETH at Blocktix.io.
+
+The White Hat Group announced on Reddit that they will create “another multisig for you [the affected users] that has the same settings as your [the users’] old multisig but with the vulnerability removed and we will return your [the users’] funds to you [the users].” The response team warned the Reddit community to be careful with donation addresses below their post since there are “a lot of phishers in the community right now.”
+
+On July 19, Parity Technologies published a critical security alert stating there was a vulnerability connected to Parity Wallets. The users affected by the vulnerability included “any user with assets in a multi-sig wallet created in Parity Wallet prior to 19/07/17 23:14:56 CEST.” The company urged users to move all assets from the multisig wallets to a secure address. Wallets seemingly unaffected by the breach include Geth, MyEtherWallet and single-user accounts created on Parity.
+
+Parity updated its post as of today stating that future versions of their multisig wallets are secure:
+
+“Future multi-sig wallets created by versions of Parity are secure (Fix in the code is https://github.com/paritytech/parity/pull/6103 and the newly registered code is https://etherscan.io/tx/0x5f0846ccef8946d47f85715b7eea8fb69d3a9b9ef2d2b8abcf83983fb8d94f5f).”
+
+Swarm City also posted information for users affected by the hack:
+
+“If you do have funds in the multisig contract: carefully move your funds to a new account ASAP. If your funds are no longer in your multisig, please check the Black hat and White hat addresses. They might have been saved by the White hat group.”
+
+To check on funds held by either the black hat or the white hat hackers, see the ETH addresses below:
+
+White Hat Group’s wallet: 0x1DBA1131000664b884A1Ba238464159892252D3a
+First hacker’s wallet: 0xB3764761E297D6f121e79C32A65829Cd1dDb4D32
+Second attacker’s wallet: 0x1Ff21eCa1c3ba96ed53783aB9C92FfbF77862584
+
+The hacks have not only affected the wallets of the victims but also the overall price of ether. According to Coin Market Cap’s stats, the price experienced a 15 percent drop from $234.94 (at 0:04, July 19) to $199.70 at the end of the day. However, ETH has since recovered to around $227 today.",Scams,0.274
+2018/1/8,UBI Blockchain Is the Latest in Series of SEC Cryptocurrency Crackdown Targets,"In a story that is getting all too familiar recently, the Securities Exchange Commission (SEC) halted trading on yet another blockchain-related company stock, UBI Blockchain. The SEC explained:
+
+""The Commission temporarily suspended trading in the securities of UBIA because of (i) questions regarding the accuracy of assertions, since at least September 2017, by UBIA in filings with the Commission regarding the company’s business operations; and (ii) concerns about recent, unusual and unexplained market activity in the company’s Class A common stock since at least November 2017.""
+
+Shares in UBI Blockchain traded as high as $115 after selling for just $0.55 less than a year ago; a couple of weeks ago it was trading at around $9. Bloomberg is reporting that UBI Blockchain has just 18 employees, no revenue, $15,406 dollars in cash on hand and $6.3 million in debt. UBI filed with the SEC in September 2017 for a planned sale of 72.3 million shares of stock by its executives, but the phone number listed in the filing has since been disconnected. The share halt started January 8, 2018, and will run through January 22, 2018.
+
+Latest in a Series of Scam Crackdowns
+On December 19, 2017, the shares of The Crypto Company were halted by the SEC over concerns of manipulative trading. The shares had surged in price by 2700% in a single month. The halt went through January 3, 2018, which saw the stock drop to $175 from its high of $642. Their 10-Q filing shows cause for concern: The company, which rebranded in July of 2017, had less than $600,000 in revenue, most of which was from trading cryptocurrency. The stock at its highest gave this company with seemingly few people and no product, a market cap of $6.5 billion.
+
+Also in December, the SEC halted both the Munchee ICO and the Plexcoin ICO. Munchee ran afoul of the SEC by emphasizing they were creating a secondary market as an investment vehicle long in advance of the utility of the token being made available. The SEC complaint argued their token was considered a security regardless of their utility at the time of the sale. Munchee consented to the SEC’s order without admitting to or denying the findings and returned the investors’ money.
+
+The SEC took a much heavier hand with Plexcoin, as their new Cyber Unit filed its first charges since being created in September 2017 to focus on misconduct involving distributed ledger technologies (DLTs) and initial coin offerings (ICOs). The scheme involved a recidivist Quebec securities law violator, Dominic Lacroix, and his partner, Sabrina Paradis-Royer.
+
+The SEC obtained an emergency court order to freeze the assets of PlexCorps, Lacroix and Paradis-Royer. Chief of the Cyber Unit, Robert Cohen, said, ""This first Cyber Unit case hits all of the characteristics of a full-fledged cyber scam and is exactly the kind of misconduct the unit will be pursuing. We acted quickly to protect retail investors from this initial coin offering's false promises.""
+
+In September 2017, the SEC had a double hitter with two companies from one person, Maksim Zaslavskiy. He was responsible for REcoin, touted as ""the first ever cryptocurrency backed by real estate,"" and the Diamond Reserve Club. Neither company performed any of the actions that they claimed they would and neither had any of the resources touted. The SEC obtained an emergency court order to freeze the assets of Zaslavskiy and his companies.
+
+Just today, we have news breaking that the CEO of Fantasy Markets, Jonathan Lucas, has allegedly disappeared with investors' money.
+
+The SEC has also issued a statement concerning celebrity endorsements of ICOs out of concern for naive potential investors who may be swayed by big names selling dubious products.
+
+Since the SEC started to pay attention to ICOs last summer, they’ve been taking a pretty understanding stance when dealing with enforcement. Andrew J. Chapin, the CEO of Benjacoin for example, describes how the SEC contacted him about his upcoming ICO in order to discuss what he and his company were planning. He says that he was glad he took the call and learned the “right way” to do things, instead of ignoring it and trying to skirt around the regulations. Thus, in these early days, it appears that the SEC is giving companies an opportunity to make things right, so far, without assessing fines or penalties. But how long that will last is anyone’s guess right now.
+
+",Scams,0.2732
+2018/1/31,"SEC Halts AriseBank ICO, Calling It “an Outright Scam”","In a statement from the Securities Exchange Commission (SEC), an emergency relief action was filed to shut down AriseBank, which it described as “an outright scam.”
+
+In a growing list of enforcement actions by the SEC, the complaint against AriseBank stated that the Dallas-based company had used deceptive tactics to raise what they claim was $600 million of its $1 billion goal in just two months. Co-founders Jared Rice Sr. and Stanley Ford are being charged with alleged fraud and issuing unregistered securities during its ICO.
+
+On January 18, 2018, AriseBank had announced the purchase of two FDIC insured banks, KFMC Bank Holding Company and TPBG, neither of which exist. AriseBank also offered customers an AriseBank-branded VISA card to spend any of the 700-plus cryptocurrencies using their purported algorithmic trading application that automatically trades in various cryptocurrencies, in addition to allegedly failing to disclose the criminal background of key executives.
+
+Co-director of the SEC’s Enforcement Division, Stephanie Avakian, said, “We allege that AriseBank and its principals sought to raise hundreds of millions from investors by misrepresenting the company as a first-of-its-kind decentralized bank offering its own cryptocurrency to be used for a broad range of customer products and services.”
+
+Avakian continued, “We sought emergency relief to prevent investors from being victimized by what we allege to be an outright scam.”
+
+AriseBank had recently announced it was teaming up with boxing legend Evander Holyfield to help raise money for disaster preparedness. Now, however, a cease-and-desist order has been executed, their office and executives homes have been raided, their assets have been seized, their website is down and their ICO has been stopped.
+
+SEC co-director, Steven Peikin, said, “This is the first time the Commission has sought the appointment of a receiver in connection with an ICO fraud. We will use all of our tools and remedies to protect investors from those who engage in fraudulent conduct in the emerging digital securities marketplace.”",Scams,-0.926
+2018/2/27,Cryptomining Malware Fuels Most Remote Code Execution Attacks: Study,"Malware attacks continue to garner a great deal of attention in the tech world. Short for “malicious software,” its intent is to damage or disable computers and computer systems.
+
+Now researchers from the cyber security firm Imperva say they have found the source of 90 percent of remote code execution attacks in December 2017: cryptomining malware. In a blog post dated February 20, 2018, Imperva assesses the recent spike in cryptomining malware attacks. They specifically examine the amount of money the brazen attackers are walking away with, while providing risk management advice to organizations seeking to steer clear of them.
+
+Below are some of the key findings:  
+
+Cryptomining malware results in denial of service to the infected server. When most of the server’s computational power is directed to cryptomining, the server can be rendered unavailable.
+Removing the malware is not simple due to its persistence nature, one where it adds a scheduled task to download and runs it again after a certain period of time.
+While bitcoin is arguably the most popular cryptocurrency that exists, there is no evidence that a single attack has occurred through the use of Bitcoin mining malware.
+Other cryptocurrencies, like Monero, are more at risk because they are newer and can be mined using a regular CPU. Therefore, it has become the hackers’ preferred choice for executing a server infection.
+In the downloaded configuration files that Imperva identified, there were active Monero wallets that belonged to the attackers. By tracing the wallets and the mining pools, Imperva was able to view the amount of money made using cryptomining — an estimated 41 monero or around $10,000. Imperva could also see that the attacker was earning around 1.5 monero a day which translates to around $375 a day.
+Electroneum, a relatively new U.K.-based cryptocurrency published specifically for mobile users in September 2017, has also been subject to attacks. Imperva’s review yielded the following results: The attacker had more than 220,000 Electroneum valued (in current Electroneum to USD rates) at around $15,500.
+Another cryptocurrency impacted was Ukraine-based Karbowanec or Karbo for short. A Karbo wallet found in Imperva’s data had been siphoned for around 275 Karbo, which at the time it was taken was worth $379.
+Varun Badhwar, a security expert and CEO and co-founder of cloud threat defense company RedLock, noted in an emailed statement to Bitcoin Magazine that the skyrocketing value of cryptocurrencies has captured the attention of audiences around the world, including hackers. He believes that it is becoming far more lucrative for hackers to steal computing power for mining cryptocurrencies than to steal data.
+
+Badhwar also notes that we are seeing cryptojacking attacks on organizations to leverage the computational power within their networks. This is a much stealthier tactic since the activity often goes unnoticed at large organizations where there is remnant or underutilized computing resources.
+
+He cites a number of cryptomining incidents that the RedLock research team has already uncovered within AWS and Azure environments belonging to large multinational organizations such as Gemalto and Aviva.
+
+He sees all of this is just the tip of the iceberg and believes that this type of cybercrime will increase in scale and velocity in the near future.
+
+“The primary attack vector for these attacks is compromised credentials which are used to infiltrate environments, spin up compute instances and perform mining operations. As a result, organizations should institute stringent user access policies and vigilantly monitor user activities for anomalous behavior,” says Badhwar.
+
+Nick Bilogorskiy, Cybersecurity Strategist at Juniper Networks, added in an email response to Bitcoin Magazine: “The story with cryptomining malware and cryptojacking is really about Monero and Electroneum. Bitcoin mining difficulty is already too high and it cannot be mined effectively on CPUs, only on special purpose hardware.”
+
+Bilogorskiy says that the price of these cryptos has more than doubled in the last three months, which makes mining it even more profitable. It also helps, he says, that Monero, like Dash and ZCash, are private coins, making them practically untraceable and ""safe"" for criminals to use.
+
+Laments Bilogorskiy: “Cryptomining malware allows attackers to monetize the power of computers that they have compromised. Cryptojacking allows them to reach an even larger scale by taking over the browsers of website visitors.”
+
+He concludes: “Increasingly, the energy and the CPU processing power is becoming the new currency of the dark side of the internet. These new crypto attacks are like leeches, sucking the power out of our homes and businesses, crashing computers and melting our phone batteries.”",Scams,-0.9872
+2018/4/11,Computer Users Face Growing Threat from Cryptojacking — Report,"Computer users now have one more thing to worry about: cybercriminals secretly tapping into your CPU or GPU to mine cryptocurrencies. Due to an ability to access your computer via a web browser, “cryptojacking” is on the rise, cautioned a British government agency.
+
+“The technique of delivering cryptocurrency miners through malware has been used for several years, but it is likely in 2018-19 that one of the main threats will be a newer technique of mining cryptocurrency which exploits visitors to a website,” the U.K.’s National Cyber Security Centre (NCSC) wrote in its annual report on April 10, 2018.
+
+Some History
+While other types of malware have to find a way to trick you into downloading software, in-browser cryptojacking malware doesn’t require you to install a program. Instead, hackers infect a website or an online ad with JavaScript code that auto-executes once it loads in your browser. The cryptomining code then does its job in the background while you continue using your computer as normal. A lag in performance may be the only clue that a computer has been compromised.  
+
+Cryptojacking took off in September 2017 when Coinhive published a JavaScript miner that could start mining the ASIC-resistant cryptocurrency Monero (XMR) after a webpage loaded. “Your users run the miner directly in their browser and mine XMR for you in turn for an ad-free experience, in-game currency or whatever incentives you can come up with,” Coinhive says on its website.
+
+Shortly after, popular torrent download site Pirate Bay incorporated Coinhive as part of a new monetization scheme that would replace the advertisements that normally keep the site afloat. “We really want to get rid of all the ads. But we also need enough money to keep the site running,” Pirate Bay said in a blog post on September 16, 2017.
+
+During the latter part of 2017, Coinhive clones started popping up left and right. Hackers  even found ways to inject the scripts into popular websites like Politifact.com and Showtime unbeknownst to the site owners. Today, the internet is rife with in-browser miners.
+
+Global Problem
+As pointed out in the NCSC report, in December 2017, Check Point revealed that 55 percent of businesses globally were impacted by cryptominers. “Popular websites are likely to continue to be targets for compromise, serving cryptomining malware to visitors, and software is available that, when run in a webpage, uses the visiting computer's spare computer processing power to mine the digital currency Monero,” the NCSC says.
+
+The report also points out that in February 2018, over 4,000 websites worldwide, including many government ones, were affected by the cryptojacking script. The problem was eventually traced to a website plug-in called Browsealoud, used to help blind and partially sighted people access the web.
+
+Using an ad blocker or antivirus program with features that block browser mining is the best way to prevent crypto hijacking, the report advised. (There's also a Chrome extension called No Coin that blocks cryptocurrency miners like Coinhive.)",Scams,-0.4019
+2018/5/22,U.S. and Canadian Regulators Investigating Crypto Scams,"The North American Securities Administrators Association (NASAA) just announced “Operation Cryptosweep,” one of the largest coordinated enforcement actions by U.S. and Canadian regulators to crackdown on fraudulent Initial Coin Offerings (ICOs).
+
+The task force was convened in April 2018 and includes members from more than 40 jurisdictions throughout North America and has resulted in nearly 70 inquiries and investigations and 35 pending or completed enforcement actions related to ICOs or cryptocurrencies since the beginning of May.
+
+Joseph P. Borg, NASAA president and director of the Alabama Securities Commission, said “The actions announced today are just the tip of the iceberg,” Borg also noted that the task force had found approximately 30,000 crypto-related domain name registrations, most of which appeared in 2017 and 2018.”
+
+An important part of the Cryptosweep program is to raise public awareness of the potential risks associated with ICOs and cryptocurrency, while also encouraging the public to come forward and alert the agency to potential scams.
+
+Borg commented, “Not every ICO or cryptocurrency-related investment is fraudulent, but we urge investors to approach any initial coin offering or cryptocurrency-related investment product with extreme caution.”
+
+“Operation Cryptosweep contributes to our ongoing efforts to raise awareness about potentially fraudulent activity involving cryptocurrency products,” said Leslie Byberg, executive director and CAO of the Ontario Securities Commission. “To avoid investment fraud, investors should always check that they are dealing with a registered individual or firm, and should carefully consider the risks associated with investing in this novel space.”
+
+Robin Jacobs, who is with the Wisconsin Division of Financial Institutions (DFI), also part of the task force, said these types of schemes haven’t reached the state on a large scale but are rampant across the rest of the U.S. and Canada.
+
+""There are very few legitimate ways to make 10, 15, 20 percent off your investment,"" she said. ""And if they’re offering you guaranteed high returns, do not give them your money.” Jacobs continued, ""Regulators are on top of this and we’re going to go after them for misrepresenting these investments to the public and essentially stealing people’s investment money.""
+
+CryptoSecure, a company that recently announced John McAfee was joining as a senior strategic advisor, is one of the companies just served with a Cease and Desist letter by NASAA as part of the sweep. Other companies who received similar letters include Digital Ticks, Leverage, Power Mining Pool, ThinkCoin, Ubcoin and many more.",Scams,-0.9255
+2018/6/20,South Korean Bithumb Exchange Loses $30M in Latest Cryptocurrency Hack,"Hackers have reportedly made away with cryptocurrencies worth $30 million from Bithumb, South Korea's leading exchange, according to reports from a blog update. The exchange states that due to the hack, deposits and withdrawals will be temporarily suspended until further notice.
+
+Bithumb’s blog post reads ""Due to security issues; we are changing our system regarding deposits of cryptocurrency. All of our customers should stop depositing cryptocurrency until we notified that it is safe to deposit cryptocurrency.""
+
+The Hack
+In its announcement, Bithumb didn’t disclose the exact details of the coins that were affected in the hack and in what quantities. We also don’t know the exact cause of the breach, but a local news outlet is reporting that investigators from South Korea's National Police Agency have begun a formal investigation into the case.
+
+In an update shared on Twitter, Bithumb had stated that it would compensate affected users. Though the original tweet from Bithumb has since been deleted, the information was also sent to users via email in a move to clear doubts and uncertainty.
+
+Twitter user RedDragon___ posted an email screenshot which reads, “We noticed that between last night and today early morning, about 35,000,000,000 KRW worth cryptocurrencies have been stolen. However, this loss will be compensated by Bithumb’s own reservoir, and all assets of our customers are securely saved in Bithumb's cold wallet, hence all asset is completely safe and secured.""
+
+Bithumb also reported that assets are being transferred to a cold wallet while they “build up the security system and upgrade DB. Starting from 15:00 pm(KST), we will restart our services.”
+
+Mitigating the Damage
+Bithumb had managed to preempt what it interpreted as an imminent attack on its server by moving a large number of cryptocurrencies to its cold wallet after noticing the ""number of unusual access attempts"" had increased, which led it to ""strengthening security.""
+
+It announced a server check that was expected to ""build up the security system,"" but the maintenance time scheduled from 5:20 a.m. KST to 9:00 a.m. KST took more time than it should have.
+
+The recent hack is Bithumb's second attack this year and the third attack on a South Korean cryptocurrency exchange. As reported by Bitcoin Magazine earlier this month, South Korean Conrail lost around $40 million to hackers where lesser known tokens such as PundiX were stolen.
+
+“The fact that most exchanges allow their users to create incredibly weak passwords should serve as a wake-up call to the entire industry,” says Emmanuel Schalit, CEO at Dashlane, a password manager app.
+
+Creator of Litecoin, Charlie Lee, warned users once again to ""only keep on exchange coins that you are actively trading.""
+
+At press time, Bithumb is currently trading over $364 million in 24-hour trading volume, according to data from Coinmarketcap.",Scams,-0.3182
+2018/8/8,"This Crypto Scam Botnet Consists of Over 15,000 Separate Bots","Researchers at Duo Labs have discovered that Twitter is home to at least 15,000 scam bots and have published their findings in a new report.
+
+Between May and July of 2018, staff members observed, collected and analyzed nearly 90 million public Twitter accounts that had released over 500 million tweets. In addition, researchers also examined elements of each account including profile screen names, number of followers, avatars and descriptions to gather one of the largest accumulations of Twitter data ever studied.
+
+Among the report’s most interesting finds was a sophisticated “cryptocurrency scam botnet,” which consists of at least 15,000 separate bots. The botnet ultimately siphons money from individual users by posing as cryptocurrency exchanges, news organizations, verified accounts and even celebrities. Accounts in the botnet are programmed to deploy malicious behaviors to evade detection and look like real profiles.
+
+Researchers were also able to map the botnet’s three-tiered structure, which consists of “hub” accounts that are followed by many bots, scam publishing bots, and amplification bots that specifically like tweets to increase their popularity and appear legitimate.
+
+Olabode Anise, a data scientist and co-author of the report, explained, “Users are likely to trust a tweet depending on how many times it’s been retweeted or liked. Those behind this particular botnet know this and have designed it to exploit this very tendency.”
+
+To discover the scam bots, researchers utilized subsets of varying machine-learning algorithms and built features that could train them to locate the bot accounts. Among the five considered algorithms were AdaBoost, Logistic Regression, Random Forest, Naive Bayes and Decision Trees. It was discovered that Random Forest outperformed the other algorithms during the initial testing phases. From there, three individual models of the algorithm were trained to deal with both social and crypto spam bots.
+
+Researchers discovered that bot accounts follow certain behaviors, which, once identified, made them easier to recognize. For example, bot accounts often tweet in short bursts, causing the average times between messages to remain low, while actual Twitter users often wait longer periods between their tweets.
+
+Some methods for evading discovery, however, are more sophisticated. Bots often use unicode characters in tweets rather than traditional ASCII characters. They also use screen names that are typos of spoofed accounts’ screen names, and add white spaces between words and punctuation marks. Profile pictures are also edited to prevent image detection. Finally, many bots appear to follow the same accounts.
+
+Twitter has suspended cryptocurrency spam bots in the past and usually identifies fake accounts quickly. Nevertheless, executives appear to have missed several portions of the latest scam project.
+
+A Twitter spokesperson claimed, “Spam and certain forms of automation are against Twitter’s rules. In many cases, spammy content is hidden on Twitter on the basis of automated detections. When spammy content is hidden on Twitter from areas like search and conversations, that may not affect its availability via the API. This means certain types of spam may be visible via Twitter’s API even if it is not visible on Twitter itself. Less than 5% of Twitter accounts are spam-related.”",Scams,-0.5719
+2018/8/20,BitConnect's Alleged Ringleader Arrested in India: Local Reports,"Nearly eight months to the day after the ponzi scheme BitConnect exit scammed, the sins of the project have caught up to one of its figureheads.
+
+Divyesh Darji, the alleged leader of BitConnect’s Asian team, was arrested this Saturday, August 18, 2018, in the Delhi airport by the Gujarat Criminal Investigation Department (CID). In cooperation with the country’s immigration task force, the authorities booked Darji after he arrived from Dubai, United Arab Emirates, his place of residence.
+
+According to P. G. Narwade, a CID inspector involved in the case, “[a] look-out circular was issued against [Darji],” leading to the Immigration Department’s tip that he was en route to India from Dubai.
+
+“The accused held seminars, events in India and other countries promising high interest — daily interest rate of 1 per cent — on investment in BitConnect coins. The cost of one BitConnect coin on January 16, 2018, when the company shut down, was USD $362,” Narwade said.
+
+The CID’s report on the incident claims that BitConnect ran off with roughly $14.5 million worth of investor funds when the platform went down. In the weeks before the exit scam, BCC, BitConnect’s coin, peaked at an all-time high of $472. A week after the platform shuttered its services, the price of BCC had plummeted to below $15. Now, with a price of $0.67, the coin has no active markets.
+
+Since its inception in 2016, U.K.-registered BitConnect operated as a lending service that promised 1 percent interest daily, and the platform itself featured its own exchange and wallet. Upon going defunct in January of 2018, BitConnect’s team — who, during its operation and in the aftermath of its cessation, never revealed themselves — told investors that they would keep wallet services running despite closing the exchange and lending platform.
+
+In addition, all bitcoin invested in the lending platform was transferred into BCC at an exchange rate of $363.62 and returned to their respective investors. Given the subsequent depreciation of BCC following the service’s closure, these funds did not come out to cover these users’ original investments, resulting in enormous losses.
+
+In the since-removed blog post explaining their reasoning for shutting down the platform, the BitConnect team insisted that bad press and pressure from international governments forced their hand. Cease-and-desist orders from British, South Carolinian and Texan officials began piling up in the beginning of 2018. These notices seemed to corroborate the suspicions of crypto community members, including Vitalik Buterin and Charlie Lee, that insisted the service was a classic pyramid scheme.
+
+The fallout of the service’s closure confirmed these concerns, and a handful of class action suits have surfaced to seek recompense for damages.",Scams,-0.6705
+2018/9/20,Another Cryptocurrency Exchange Hack Hits Japan [UPDATED],"Update (September 21, 2018): Blockchain forensic company Blocktrace has traced some of the bitcoin stolen from Zaif to cryptocurrency exchange Binance.
+
+“I can confirm that the hack started on the 14th as that's when I saw the withdrawal of 5,966 Bitcoin,” Blocktrace founder Shaun MaGruder told Bitcoin Magazine.
+
+Initially, the bitcoin were moved to this address. From there, the hackers have begun “layering” the transactions, he said. In other words, breaking up the funds into smaller and smaller amounts to hide the origin of the money.Some of the funds have made their way to Binance, where MaGruder says the know-your-customer process is “not as strict” as other exchanges.
+
+“Even though you have to upload your ID when verifying account, they are not making sure it is actually you,” MaGruder said. Once there, the hacker(s) will likely swap the bitcoin for another coin, before moving the funds to an exchange that has fiat banking. Binance only offers crypto-to-crypto trades.
+
+Another cryptocurrency heist has shaken Japan. This time, 6.7 billion yen ($60 million USD) worth of company and user funds have vanished from Japanese cryptocurrency exchange platform Zaif.
+
+Tech Bureau Corp, the Osaka-based company that operates Zaif, estimates the heist occured on September 14, 2018, between 5 p.m. and 7 p.m. local time. The exchange detected the breach on September 17, 2018, and reported the event to authorities the following day.
+
+Of the stolen money, the hacker siphoned 4.5 billion yen (about $40 million USD) from user accounts and 2.2 billion yen (just under 19.5 million USD) from the company’s own assets. The three virtual currencies stolen include bitcoin, monacoin and bitcoin cash. Of those, $37.8 million were bitcoin funds (5,966 BTC).
+
+Tech Bureau Corp will be able to tell the exact number of bitcoin cash and monacoin stolen once it gets its servers back up. All the cryptocurrency was taken from a server managing its hot wallet. A hot wallet refers to a wallet that remains online for immediate transactions. In contrast, a cold wallet represents more secure, long-term storage that is kept offline.
+
+Japan’s Financial Services Agency (FSA) has already issued two business improvement orders (one in March 2018, the other in June 2018) to Tech Bureau Corp for its lax management structure. Now the financial watchdog is considering issuing a third warning, reports the Japan Times.
+
+The exchange has suspended all services for now but plans to get back online once it has secured its network. It also intends to pay back its customers and has already secured a 5 billion yen ($44.5 million) loan from Fisco Digital Asset Group. In addition, Tech Bureau Corp will sell a majority stake of its company to Fisco, which owns its own exchange. According to Japan Times, Fisco will send in directors and an auditor while Tech Bureau’s own managers will resign over the incident.
+
+The hack represents another setback in a country that has been trying to regulate its cryptocurrency exchanges with the same level of oversight it does banks. Early this year, Tokyo-based Coincheck saw a loss of $530 million worth of NEM tokens. That hack represented one of the largest financial losses since the introduction of bitcoin. Coincheck has since been acquired by Monex.
+
+Since April 2017, Japan has required all of its crypto exchanges to be licensed. Both Coincheck and Tech Bureau Corp were founded in 2014, before the new laws went into effect. Coincheck was not fully licensed at the time it was hacked, but Tech Bureau Corp is a registered exchange.",Scams,-0.8217
+2018/9/26,Study Reveals Growing Sophistication in Malicious Mining of Cryptocurrency,"Several Chinese researchers from Fudan University, Tsinghua University and the University of California Riverside have produced the first systematic study of the malicious mining of cryptocurrencies, known as cryptojacking, unveiling increasing complexity over time. And it doesn't seem as if this trend will die down anytime soon.
+
+What Is Cryptojacking?
+Cryptojacking has asserted itself in the cybersphere as the valuation of the cryptocurrency sector soared over the past 18 months and refers to where a hacker hijacks the processing power of a computer to mine cryptocurrency on the hacker’s behalf. AdGuard reported in November 2017 that over 220 cryptojacking websites were found among the top 100,000 websites according to Alexa. And this trend is not likely to die down anytime soon.
+
+As reported by Bitcoin Magazine in March 2018, the U.K.’s National Cyber Security Centre stated that “... it is likely in 2018-19 that one of the main threats will be a newer technique of mining cryptocurrency which exploits visitors to a website.”
+
+The phrase “cryptojacking” burst onto the scene when it was found out that The Pirate Bay was experimenting with Coinhive in September 2017 to see if the non-profit could generate more revenue through its website. Coinhive allows you to add a script to a webpage and mine the cryptocurrency Monero (XMR) by utilizing a visitor’s processing power.
+
+But the admins of The Pirate Bay mistakenly configured the settings to use a visitor’s entire processing power without their consent, which led to an explosion of abuse of the Coinhive service. Even though altruistic goals can be achieved using in-browser mining, as evidenced by UNICEF’s “Hope Page,” it has been increasingly utilized for nefarious purposes, with pressure mounting on services such as Coinhive to make it less attractive to cybercriminals.
+
+Hackers can also capitalize off of a website’s weak security measures by dropping scripts into web pages to mine cryptocurrency, like what happened with the website of U.S. television program Showtime in September 2017. A recent research paper has highlighted that, even though many cases have popped up, cryptojacking may be even more prevalent than we think.
+
+Existing Identification Techniques Only Scratch the Surface
+First, the study examines the extent of cryptojacking, which has never been fully measured due to the arbitrary nature of surveying the cybersphere for this type of malicious attack. The research notes that existing approaches make assumptions that cryptojacking web pages exhausts the user’s CPU resources or contains keywords as malicious payload signatures, and it was noted that many counterexamples were discovered.
+
+By targeting regular, repeated, hash-based computations with a cryptojacking detector called CMTracker for over 850,000 websites, the study was able to provide a more complete picture of what is really happening and noted that 53.9 percent of the identified samples would not have been uncovered by existing cryptojacking surveying approaches based on blacklists, which are both incomplete and inaccurate. Additionally, the results from CMTracker were vetted manually.
+
+But how does CMTracker work and how did it manage to find nearly three times as many cryptojacking domains as the most recent reports? Two behavior-based profilers are used, one to detect automated mining scripts, known as the hash-based profiler, and one to monitor the calling stack of a website, known as the stack-structure based profiler. For the hash-based profiler, if a website uses more than 10 percent of its execution time on hashing, it is reported as a cryptocurrency miner.
+
+The idea for the stack-structure profiler goes something like this: Mining tasks will not take place as the user is loading the page; rather, one or more dedicated threads are created since mining cryptocurrency comes with a heavy workload. If hackers use code obfuscation techniques to evade hash-based profiling, then the repeated behavioral patterns of the miner’s execution stack can be used to identify cryptocurrency miners.
+
+The stack depth and call chain of mining scripts are repeated and regular. By observing whether a dedicated thread repeats its call chain periodically and whether the call chain occupies more than 30 percent of the whole execution time in this thread, a cryptocurrency miner is reported to be present. Along with the condition for a hash-based profiler, these two thresholds are the lower bounds from cryptojacking in the real world.
+
+The final check is made manually, looking at the terms of service of each website to see if there is any user agreement that makes it clear to the user or implicit in their agreement that their processing power is being used for cryptocurrency mining while visiting the website. The study found that only 35 websites were “benign,” with implicit agreement being sought from users.
+
+When evaluating the performance of CMTracker, the researchers chose a subset of 200 websites from the sample to manually check if cryptocurrency mining scripts were indeed running on the website in question and found no false positives. While the paper acknowledges that some cryptojacking websites may have evaded CMTracker, “... neither we nor other publicly available reports showed any evidence of real cases that can escape CMTracker’s two behavior-based detector.”
+
+How Rampant Is the Cryptojacking Problem?
+Among all the top 100,000 sites according to the Alexa rankings, the CMTracker found 868 unique domains that contain cryptojacking and on a further evaluation of external links, including 548,264 distinct domains from the top 100,000 Alexa ranked websites, found a total of 2,700 cryptojacking sites.
+
+As compared with previous reports, the situation is getting worse over time, illustrated by the table from the study below. Observed cryptojacking activities have increased 260 percent in just five months from November 2017 to April 2018.
+
+table 2 insert
+
+A 260% increase in observed cryptojacking from Nov. 2017 to Apr. 2018
+
+The websites most affected are those related to adult content, art and entertainment; this makes sense, as most websites in these categories provide pirated sources, so users spend an extended amount of time searching for a particular movie, episode or video, which translates into higher profits for attackers. As more time is spent on the site, more processing power is committed to mine cryptocurrency.
+
+Using a basic approximation technique based on the difficulty of mining Monero, as well as its block reward and price, the study estimated that hackers could gain $1.7 million from more than 10 million users per month.
+
+In terms of global energy consumption, since the victims of cryptojacking are forced to consume more electricity, it costs more than 278,000 kWh extra units of power daily, enough energy to power a small American town with around 9,000 people. Using that annexed power, attackers are thought to make, collectively, around $59,000 per day.
+
+The Main Players in the Cryptojacking Game
+Who is responsible for cryptojacking? The study also investigates the players, and the figure below shows a real-world example of the interaction between each of these players. By using the distribution of different mining participants from a random subsection of their sample, some answers are provided.
+
+flowchart
+
+
+The cryptojacking process visualized and the players involved
+
+Most participant domains occur in no more than three malicious samples, and only a small percentage of mining pools, mining distributors or miner deployers are found in more than 10 web pages. The results suggest that blacklists may be ineffective as malicious miners are not centrally controlled.
+
+Another key result is that advertisers and mining services are mostly linked to cryptojacking websites. For instance, it notes a trend of advertisers turning to malicious mining, citing zenoviaexchange.com, a service similar to Coinhive, as an example of a former advertising service provider that’s now a miner.
+
+Also, by studying the distribution of wallet IDs associated with mining scripts and finding that a given wallet ID is commonly associated with less than three malicious web pages, the data leads to the conclusion that many different actors benefit from abusing cryptocurrency mining services.
+
+To better understand the dynamics of cryptojacking, the research also sheds some light on the life cycle of malicious miners. Around 20 percent of the miner deployer’s domains that are cryptojacking pages in the sample disappear in under nine days, but distributors migrate to newer domains at a lower rate. the study points out that “Interestingly, blacklists do not target distributor domains even though they rarely change.”
+
+table 2
+
+
+Life cycles of cryptojacking domains; miner deployers, distributors and mining pools
+
+Evasion can also mean something more than simply migrating to a new domain. The study finds that, out of 100 cryptojacking sites in the sample, there were 56 instances limiting CPU usage, 43 instances of payload hiding and 26 instances of code obfuscation. For instance, a pirate streaming site can take 30 percent CPU for the video and only 10 percent of CPU for mining, making it difficult for the user to notice.
+
+Two examples highlighted in the study illustrate the increasing sophistication of cryptojacking activities. Firstly, cryptojacking may occur through code obfuscation, where the malicious mining code is hidden or buried in the code.
+
+Another notable technique used by some cryptojacking domains involves utilizing two different mining services, for example Coinhive and Crypto-Loot. In case either of the mining deployers are blocked by Ad Blockers or are shut down, the cryptojacking domain is resistant to any failure in either Coinhive or Crypto-Loot, in case either are blacklisted.
+
+Protection and Mitigation Measures for Cryptojacking
+Given that cryptojacking participants can use more sophisticated means to evade detection, it begs the question of whether browser extensions or anti-virus programs can protect users from this sort of cyber theft. The researchers suggest that most protective measures are based on blacklists and then go on to evaluate the effectiveness of two of the most widely used blacklists in a 15-day experiment: NoCoin and MinerBlock.
+
+The results show that less than 51 percent of malicious attacks are detected, and — due to the fact that blacklists are updated every 10 to 20 days, as compared to nine or less for mining deployers — this divergence means that the malicious actors are always one step ahead, as cryptojacking domains migrate or vanish at a higher rate. As a result, the detection rate does not increase, even though coverage does.
+
+To effectively combat cryptojacking, the researchers propose a behavior-based approach to detection, which can then be implemented by browser extensions and anti-virus engines. As indicated by the experiments, it takes three seconds for the CMTracker to analyze a web page for cryptojacking and, when combined with a whitelist for those websites having explicit reference to the donation of processing power in the user terms of service, could effectively reduce malicious mining.
+
+These researchers also point to cryptocurrency mining services as having paid inadequate attention to the abuse of their services; mining scripts are run without user notification and users cannot turn off these scripts. Consequently, they propose that the mining services like Coinhive, which powers half of all cryptojacking domains, should shoulder some of the responsibility. Mining services could do this by implementing a pop-up window or something similar to notify the user, allow them to deny the request and disable the mining process.
+
+At present, there is an implementation of Coinhive called AuthedMine that is an opt-in version. As highlighted by Krebs on Security in March 2018, it is hardly used, which Coinhive has blamed on anti-malware companies. “They identify our opt-in version as a threat and block it,” Coinhive told Krebs on Security. “Why would anyone use AuthedMine if it’s blocked just as our original implementation?”
+
+Bitcoin Magazine contacted Coinhive via email with regards to the research paper and whether their service will be modified but, at the time of writing, no response has been received.
+
+To facilitate further research of cryptojacking, the research team plans to release the source code of CMTracker on GitHub, as well as on the cryptojacking websites list.
+
+The full paper “How You Get Shot in the Back: A Systematical Study of Cryptojacking in the Real World” can be found here. The paper will be presented at the 2018 ACM SIGSAC Conference on Computer and Communications Security in Toronto, Canada, taking place October 15-19, 2018.",Scams,-0.9451
+2018/10/31,Binance Freezes Funds on Multiple Accounts with Dubious Crypto Exchange,"Binance has frozen multiple accounts associated with the cryptocurrency exchange Wex, citing money laundering concerns.
+
+The CEO of Binance went on Twitter recently to announce the freezing of multiple accounts owned by Wex, claiming that Binance will cooperate with law enforcement in any way possible should a criminal investigation result from alleged money laundering.
+
+Wex, a Russian-based cryptocurrency exchange, has had a troubled history, to put it mildly. Going formally under the name of btc-e, it drew community unrest when its alleged operator, Alexander Vinnick, was arrested. It subsequently rebranded to the current name and set up a New Zealand-based server.
+
+People using this exchange have reported being unable to actually use or withdraw their money, with a dedicated website of aggrieved users meeting to share information about possible allegations of theft.
+
+Per the CEO of Binance’s Tweet, it seems as if large amounts of this missing money is being moved through Binance, presumably for the purposes of fraud. To this end, Binance has agreed with the general consensus that criminal activities could be involved.  
+
+The CEO went on to state that circumstances such as this are often an unpleasant point in favor of increased centralization for cryptocurrency, as someone does have to be on the hook to help stop fraudulent activity.
+
+",Scams,-0.936
+2018/11/14,"Target and Google Official Twitter Accounts Hacked, Used for Crypto Scams","In what is becoming an emerging trend, Twitter accounts of popular brands are being hacked in an attempt to scam unsuspecting users out of their cryptocurrencies.
+
+Target and Google are two high profile targets that have seen their accounts taken over by hackers who, in turn, have used them to scam followers by advertising fraudulent crypto giveaways.
+
+Google's G Suite Twitter Account is Hacked!! pic.twitter.com/JdB7huGksO
+
+— Burton (@B_u_r_t_o_n) November 13, 2018
+Target's Twitter account, which is followed by nearly 2 million users, posted a tweet, confirming the hack which occurred on November 13, 2018. The retailer stated:
+
+""Early this morning, our Twitter account was inappropriately accessed. The access lasted for approx. half an hour & one fake tweet was posted during that time about a bitcoin scam. We have regained control of the account, are in close contact with Twitter & are investigating now.""
+
+Seemingly targeted by the hacking syndicate, Google's G Suite Twitter account was breached hours after Target fell victim. The hack on Google was marked by the same tactics as the one that plagued Target — a scammy tweet ridden with typos promising free bitcoin to G Suite's 800,000 followers.
+
+A Google spokesperson confirmed the hack to Business Insider in a statement:
+
+""This morning an unauthorized promoted tweet was shared from the G Suite account. We removed the tweet and are investigating with Twitter now.""
+
+These incidents are a more sophisticated version of the Twitter scams that have become a constant nuisance for the cryptocurrency community. Typically, these scams include bad actors merely imitating popular figures in the crypto industry with near-identical profiles, though it’s rare for the real accounts themselves to be taken over to advertise the scams.
+
+While it's unclear how scammers are gaining access to the brands' social media account, it's obvious new measures are needed to combat the scams.
+
+Criticized in the past for its failure to devise a clear defense against these incidents, Twitter is reportedly working on counter security measures to prevent similar breaches like the one witnessed by Target on its platform in the future.
+
+Earlier this year, anti-fraud software company MetaCert released Cryptonite, a browser extension that safeguards users against fraudulent accounts.",Scams,-0.9766
+2019/2/26,"Citing Executive Embezzlement, Korean Crypto Exchange Declares Bankruptcy","Coinbin, a South Korean crypto exchange, declared bankruptcy on February 22, 2019, citing foul play from inside the company.
+
+Business Korea reported on Coinbin’s recent failure, claiming that the company had lost $26 million as a result of theft and the subsequent bankruptcy declaration. Coinbin’s CEO Park Chan-kyu claimed that the move was “due to a rise in debt following an employee’s embezzlement.”
+
+After the exchange Youbit was hacked to the tune of several million dollars last year, Coinbin acquired it, and now Coinbin’s CEO claims that Youbit’s former CEO used his new position at Coinbin to carry out this theft.
+
+Several exchanges in South Korea have been targets of similar fraudulent activities in recent months, both from scammers targeting legitimate businesses and from various exchanges turning out to be fraudulent in some way.
+
+In January 2019, for example, exchanges Komid and UpBit both saw top-level executives face prison terms for various acts of defrauding users. Additionally, in November 2018, PureBit posted an apology notice on its website after stealing $2.8 million in a fairly straightforward exit scam.
+
+Even when exchanges attempt to conduct operations in good faith, they still are often victimized by hacker attacks. In June 2018 alone, for example, exchanges Bithumb and Coinrail lost $30 million and $40 million dollars respectively due to hackers.
+
+These staggering figures still pale in comparison, however, to the exploits of North Korea. The Lazarus Group, a hacker organization directly sponsored by the North Korean government, stole more than $571 million from various exchanges over a period of less than two years. A significant portion of their targets, naturally, were in South Korea.",Scams,-0.9794
+2019/3/1,"Report Claims That “Sextortionists” Absconded With Over $300,000 in Crypto in 2018Report Claims That “Sextortionists” Absconded With Over $300,000 in Crypto in 2018","Most cyberattacks in the crypto space involve hackers finding a way around the security of crypto exchange platforms and gaining access to users’ funds. Last year saw the entry of a new breed of cyber extortionists that seems to be gaining ground, so much so that they were able to steal over $300,000 in bitcoin (BTC) tokens in 2018.
+
+According to a report by research and risk assessment firm Digital Shadows, this scam was committed through a wide array of “sextortion” blackmail strategies, which included the weaponization of emails.
+
+The report, which was titled “A Tale of Epic Extortions: How Cybercriminals Monetize Our Online Exposure,” revealed that the scam started back in 2017. However, it only gained mainstream notoriety in the middle of 2018, after its list of victims continued to grow.
+
+Digital Shadows was able to track over 792,000 targeted emails, where it discovered the loss of about $300,000 worth of bitcoin, which was stolen from over 3,000 bitcoin wallet addresses.
+
+How They Operate
+The goal of the cybercriminals is to convince the victim that their system had been hacked, allowing them to obtain valuable information that could expose their intimate activities.
+
+To look convincing, the extortionists provide the victim with a known password, also known as “proof” of compromise — this is meant to offer evidence of the hack. Then they claim to have footage of the victim watching porn online, urging them to pay a ransom in bitcoin or risk exposure.
+
+As with most email scams, the composition of the emails is often a problem. Per the report from Digital Shadows, the construction of the email could make the difference between one that gets past a spam filter and the one that doesn't. Some sophisticated criminals go to great lengths to distribute emails at scale by using freshly minted outlook.com addresses.
+
+“Across the emails we collected, there was a variation in the capabilities displayed by the attackers. Certain spammers showed little understanding of how to craft and distribute emails on scale, sending malformed emails that would never make it past a mail server or spam filter,” the report reads.
+
+Based on the examination of their IP addresses, the firm noted that the scam wasn’t localized to a single region. Scammers operated across a wide array of locations, with the highest percentage of the emails being sent from a position in Vietnam (amounting to 8.5 percent of the total emails sent); 5.3 percent of the emails were sent from somewhere in Brazil and India came third with 4.7 percent of the total email count.
+
+Targeting Married and “High Net Worth” Individuals
+The cybercriminals targeted individuals with high net worth, as they believe these groups could easily pay the ransom without “dragging the process for too long.”
+
+The scammers also targeted married individuals. The criminals often use marriage as extra leverage over the victims, providing an additional incentive to convince the victim to make the payment.
+
+Online Crowdfunding Campaigns
+The Dark Overlord (TDO), a prominent extortionist group which, after a brief break, returned in 2018 with a new modus operandi, was featured in the report.
+
+The criminal group changed its model from extorting victims directly to selling “stolen data in batches to other users on criminal forums, and adopted an altogether more unusual tactic: online crowdfunding campaigns.” Using online crowdfunding campaigns, extortionist groups like TDO can raise the ransom the victim would have paid from members of the public desperate to unlock the troves of data in their possession.
+
+The extortionist group reportedly started its career selling data on TheRealDeal, a forum on the dark web. When the forum folded, they went on a spree of extortions, including directly contacting their victims and threatening to expose their private information if their demands weren’t met.
+
+TDO kept providing regular updates of their operations via their Twitter page. The group went back to the dark web in September 2018, recruiting extra accomplices and selling their acquired data on KickAss, another criminal forum. They set up The Dark Overlord Sales, a subsection of KickAss, to sell their data to other parties on the platform.
+
+The cybercriminals victims included insurance provider Hiscox, which lost over 10GB of sensitive data related to the 9/11 bombings to the group. Their operation pattern shows the effectiveness of using crowdfunding platforms to gain more publicity online, while also generating sustainable revenue.",Scams,-0.9896
