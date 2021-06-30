@@ -18,6 +18,7 @@ The following libraries are required when running the code:
 - math
 - statsmodels.api
 - mlxtend
+- tensorflow
 
 
-For detailed technical description and explaination, please refer to CP13-2_Final_Group_Report.PDF
+For detailed technical description and analysis, please refer to CP13-2_Final_Group_Report.PDF
